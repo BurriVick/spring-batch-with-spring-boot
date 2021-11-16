@@ -13,6 +13,7 @@ public class SpringBatchWithSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBatchWithSpringBootApplication.class, args);
+		System.out.println("hello program started");
 	}
 
 }
