@@ -24,6 +24,7 @@ import com.coder.springbatchwithspringboot.entity.User;
 @Configuration
 @EnableBatchProcessing
 public class SpringBatchConfig {
+	/* configuration*/
 
 	@Bean
 	public Job job(JobBuilderFactory jobBuilderFactory, StepBuilderFactory stepBuilderFactory,
