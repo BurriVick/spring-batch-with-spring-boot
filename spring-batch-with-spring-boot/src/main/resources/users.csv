@@ -1,6 +1,6 @@
-id,name,dept,salary
-1,karan,chd,1000
-2,arjun,hyd,2000
-3,mohan,chd,3000
-4,raman,pkl,4000
-5,vivek,blr,5000
+id,name,age,salary
+1,karan,22,1000
+2,arjun,21,2000
+3,mohan,24,3000
+4,raman,65,4000
+5,vivek,43,5000
